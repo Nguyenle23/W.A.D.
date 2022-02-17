@@ -1,2 +1,2 @@
-# Exercises-WAD
+# WED APPLICATION DEVELOPMENT
 Exercise for WAD course
