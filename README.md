@@ -1,2 +1,2 @@
 # WED APPLICATION DEVELOPMENT
-Exercise for WAD course
+<p> Saving Lab - Exercise for W.A.D. course
