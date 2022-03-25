@@ -1,0 +1,33 @@
+body{
+    background-color: green;
+}
+
+.container {
+    font-size: 15px;
+    font-style: bold;
+}
+
+.line {
+    width: 630px;
+    border-top: 1px solid #ccc;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: yellow;
+}
+
+table {
+    border: 1.5px solid blue;
+    text-align: left;
+}
+
+tr, th, td {
+    border: 1px solid black;
+}
+
+
+
